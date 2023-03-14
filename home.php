@@ -164,7 +164,7 @@
             </div>
             <div class="content">
                 <h3>Dwarkadheesh Temple</h3>
-                <p>The Dwarkadhish Temple Or Jagat Mandir And Occasionally Spelled Dwarakadheesh, Is A Hindu Temple Dedicated To Krishna He Temple Is Located At Dwarka City Of Gujarat, India</p>
+                <p>The Dwarkadhish Temple Or Jagat Mandir And Occasionally Spelled Dwarakadheesh, Is A Hindu Temple Dedicated To Krishna The Temple Is Located At Dwarka City Of Gujarat, India</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
